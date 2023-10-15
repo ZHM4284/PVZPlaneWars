@@ -1,0 +1,13 @@
+bigBoom=200
+cactus=0
+diamond=100
+gold=200
+linesOfPea=1
+lostAfterDie=4
+maxTimeBetweenCreateZombie=10000
+minTimeBetweenCreateZombie=500
+money=4284
+moreCactus=6666
+morePea=8888
+pea = 1000
+plantSpeed=20

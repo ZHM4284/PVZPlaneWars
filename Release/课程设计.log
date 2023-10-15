@@ -1,0 +1,16 @@
+﻿  fight.cpp
+  home.cpp
+  loadAndSave.cpp
+  main.cpp
+  shop.cpp
+F:\VS\课程设计\shop.cpp(113,37): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\VS\课程设计\shop.cpp(160,49): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+F:\VS\课程设计\shop.cpp(161,49): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+  titleScreen.cpp
+  tool.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+F:\VS\课程设计\tool.cpp(80): warning C4715: “mouseCheck”: 不是所有的控件路径都返回值
+  All 402 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  课程设计.vcxproj -> F:\VS\课程设计\Release\课程设计.exe
